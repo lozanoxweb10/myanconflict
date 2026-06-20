@@ -20,4 +20,3 @@ El objetivo de este sitio es ofrecer información clara, organizada y actualizad
 - JavaScript (opcional si aplica)
 - Frameworks (si aplica: React, Vue, etc.)
 
-## 📁 Estructura del proyecto
