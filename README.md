@@ -17,6 +17,5 @@ El objetivo de este sitio es ofrecer información clara, organizada y actualizad
 
 - HTML5
 - CSS3
-- JavaScript (opcional si aplica)
-- Frameworks (si aplica: React, Vue, etc.)
+- JavaScript 
 
