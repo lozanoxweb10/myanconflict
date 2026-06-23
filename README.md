@@ -1,6 +1,6 @@
 # 🇲🇲 Myanmar Civil War - Sitio Informativo
 
-Este proyecto es una página web informativa dedicada a explicar el contexto, evolución y situación actual del conflicto en Myanmar (:contentReference[oaicite:1]{index=1}).
+Este proyecto es una página web informativa dedicada a explicar el contexto, evolución y situación actual del conflicto en Myanmar 
 
 ## 📌 Descripción
 
